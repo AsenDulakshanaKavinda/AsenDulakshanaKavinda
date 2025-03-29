@@ -1,5 +1,5 @@
 # 💫 Hello I'm Asen:
-I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Mathematics. <br>I enjoy building models, experimenting with algorithms, and solving real-world problems with code.
+#### I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Mathematics. <br>I enjoy building models, experimenting with algorithms, and solving real-world problems with code.
 
 
 # 💻 Tech Stack:
