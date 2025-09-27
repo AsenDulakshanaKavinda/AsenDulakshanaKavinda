@@ -14,8 +14,8 @@ I'm a passionate **Machine Learning Engineer** who loves building intelligent sy
 ---
 
 ### 📌 Current Focus
-- 
-- 
+- Learning about Generative AI and NLP
+- Learning about how to manage end-to-end ML Project
 - 
 - 
 
