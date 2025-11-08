@@ -76,20 +76,4 @@ I love exploring new deep learning architectures and turning research ideas into
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashen-Dulakshana&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashen-Dulakshana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen-Dulakshana&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ⭐ **“Code. Train. Deploy. Repeat.”**  
